@@ -6,12 +6,12 @@
     "url": "github.com/TharmithaManoharan/COMP308-W2018-Lesson1.git"
   },
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.14.11"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
   }
 }
